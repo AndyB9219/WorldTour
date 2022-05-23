@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Walmart_Challenge_QV</string>
+    <string name="large_text">The Country List</string>
+    <string name="click_here">CLICK HERE!</string>
+    <string name="country">Country:</string>
+    <string name="region">Region:</string>
+    <string name="code">Code:</string>
+    <string name="capital">Capital:</string>
+</resources>
